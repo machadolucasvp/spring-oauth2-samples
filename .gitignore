@@ -1,1 +1,10 @@
 .vscode
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.classpath
+.project
+.settings/
+target/
+.mvn/
+mvnw
+mvnw.cmd
