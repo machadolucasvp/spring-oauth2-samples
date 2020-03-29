@@ -54,6 +54,7 @@ create table if not exists oauth_approvals (
 );
 
 
+
 INSERT INTO oauth_client_details (client_id, client_secret, web_server_redirect_uri,
   scope, access_token_validity, refresh_token_validity,
    resource_ids, authorized_grant_types,
